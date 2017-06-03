@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Test"
+date:   2017-06-03 12:00:18 +0900
+categories: jekyll update
+---
+Today, I open the new blog.
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hi Blog!\n");
+    return 0;
+}
+```
+
